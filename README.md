@@ -2,7 +2,6 @@
 - 🐱‍💻 I am a computer science student
 - 🔭 I intend to work with front-end development
 - 🌱 I’m currently learning web development
-- 📫 How to reach me: https://www.linkedin.com/in/gustavo-herbster/
 
 <div>
   <a href="https://beacons.ai/Gusvatar">
