@@ -1,7 +1,7 @@
 ### Hello, my name is Gustavo
 - 🐱‍💻 I am a computer science student
-- 🔭 I intend to work with front-end development
-- 🌱 I’m currently learning web development
+- 🔭 My goal is to work with game development 
+- 🌱 I’m currently learning Unity and game design 
 
 <div>
   <a href="https://beacons.ai/Gusvatar">
