@@ -1,5 +1,5 @@
 ### Hello, my name is Gustavo
-- 🐱‍💻 I am a computer science student
+- 🐱‍💻 I am a Computer science graduate
 - 🔭 My goal is to work with game development 
 - 🌱 I’m currently learning Unity and game design 
 
